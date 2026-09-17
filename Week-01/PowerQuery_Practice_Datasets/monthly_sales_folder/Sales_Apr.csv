@@ -1,0 +1,31 @@
+Date,Region,Product,UnitsSold,Revenue,Discount%
+2025-04-20,Africa,Widget B,40,8013.95,15
+2025-04-10,Asia Pacific,Tool Z,192,6865.78,15
+2025-04-24,Europe,Widget A,191,11662.65,5
+2025-04-11,Latin America,Widget A,280,12303.84,5
+2025-04-17,Latin America,Gadget Y,287,2396.56,10
+2025-04-11,Middle East,Gadget X,61,1534.22,0
+2025-04-02,Europe,Widget B,21,3110.98,15
+2025-04-07,North America,Widget A,297,9662.1,15
+2025-04-22,Middle East,Tool Z,136,831.38,5
+2025-04-20,Latin America,Widget A,11,13960.14,5
+2025-04-21,Middle East,Widget A,244,12035.2,0
+2025-04-12,Africa,Gadget Y,193,11934.32,0
+2025-04-27,Africa,Gadget X,275,705.73,0
+2025-04-27,Asia Pacific,Widget A,115,14412.74,0
+2025-04-04,Latin America,Widget B,277,5841.43,5
+2025-04-17,Latin America,Widget B,296,9417.34,5
+2025-04-18,Latin America,Tool Z,217,11217.01,10
+2025-04-22,Middle East,Gadget Y,58,2585.46,5
+2025-04-18,Middle East,Tool Z,177,9897.23,15
+2025-04-12,Asia Pacific,Tool Z,171,12688.32,15
+2025-04-25,Latin America,Gadget Y,170,9165.36,5
+2025-04-13,Africa,Gadget X,189,14428.61,15
+2025-04-13,North America,Widget A,150,8976.87,5
+2025-04-10,North America,Gadget X,118,3300.86,10
+2025-04-01,Latin America,Gadget X,288,7717.95,5
+2025-04-04,North America,Gadget Y,187,2426.0,10
+2025-04-12,Africa,Widget B,124,3918.03,10
+2025-04-03,Africa,Gadget Y,296,13776.44,0
+2025-04-24,Asia Pacific,Gadget Y,93,7375.32,0
+2025-04-20,Latin America,Gadget X,24,10988.76,15

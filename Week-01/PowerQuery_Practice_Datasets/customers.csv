@@ -1,0 +1,61 @@
+CustomerID,CustomerName,Segment,Country,SignupDate
+1,Chen Smith,Corporate,Germany,2019-09-19
+2,Bob Karimov,Corporate,Uzbekistan,2022-03-21
+3,Nodir Lee,Consumer,France,2023-09-18
+4,Liam Garcia,Corporate,UAE,2023-03-19
+5,Chen Nazarova,Consumer,France,2022-11-25
+6,Dilnoza Lee,Home Office,UAE,2024-12-06
+7,Erik Yusupova,Consumer,Uzbekistan,2022-05-07
+8,Olga Nazarova,Corporate,UK,2023-04-03
+9,Hasan Yusupova,Corporate,Germany,2020-09-27
+10,Ivy Yusupova,Home Office,Uzbekistan,2019-05-12
+11,Nodir Johnson,Consumer,USA,2021-04-24
+12,Chen Karimov,Home Office,Uzbekistan,2024-01-03
+13,Bob Yusupova,Home Office,Uzbekistan,2023-07-06
+14,Olga Yusupova,Home Office,USA,2019-08-20
+15,Erik Nazarova,Corporate,USA,2025-06-17
+16,Kamola Johnson,Home Office,France,2022-08-06
+17,Hasan Brown,Consumer,France,2024-11-05
+18,Hasan Garcia,Corporate,Germany,2019-09-07
+19,Farrukh Garcia,Home Office,UAE,2019-07-12
+20,Liam Garcia,Home Office,Germany,2023-09-02
+21,Nodir Lee,Corporate,UAE,2021-01-23
+22,Peter Yusupova,Consumer,Germany,2020-08-14
+23,Olga Smith,Home Office,UAE,2023-09-03
+24,Erik Garcia,Consumer,Germany,2021-04-12
+25,Kamola Karimov,Corporate,Germany,2020-01-14
+26,Grace Smith,Corporate,UAE,2025-10-13
+27,Bob Karimov,Consumer,UK,2025-04-08
+28,Grace Tanaka,Consumer,Germany,2022-05-26
+29,Anna Yusupova,Consumer,France,2020-04-25
+30,Peter Yusupova,Home Office,UK,2021-04-17
+31,Mira Yusupova,Home Office,Germany,2022-03-05
+32,Mira Tanaka,Home Office,France,2023-01-11
+33,Jack Brown,Corporate,UK,2024-07-29
+34,Olga Karimov,Home Office,UAE,2022-08-04
+35,Grace Rashidov,Corporate,UAE,2019-07-07
+36,Hasan Lee,Consumer,Germany,2025-03-16
+37,Nodir Brown,Consumer,USA,2022-09-13
+38,Hasan Garcia,Home Office,USA,2024-08-07
+39,Kamola Brown,Corporate,France,2024-07-02
+40,Olga Lee,Home Office,Germany,2020-11-24
+41,Erik Nazarova,Corporate,USA,2025-01-29
+42,Bob Nazarova,Consumer,Uzbekistan,2019-07-18
+43,Anna Garcia,Consumer,France,2021-08-05
+44,Chen Lee,Consumer,USA,2024-09-02
+45,Olga Rashidov,Consumer,UK,2024-06-02
+46,Peter Smith,Consumer,UK,2025-03-09
+47,Nodir Smith,Consumer,UK,2022-01-30
+48,Jack Smith,Home Office,France,2023-10-30
+49,Farrukh Karimov,Consumer,UK,2020-09-01
+50,Hasan Yusupova,Home Office,UK,2021-10-30
+51,Liam Brown,Corporate,Uzbekistan,2023-03-09
+52,Mira Tanaka,Home Office,USA,2021-07-14
+53,Jack Karimov,Home Office,France,2019-05-10
+54,Chen Garcia,Corporate,UAE,2025-03-13
+55,Peter Smith,Home Office,Uzbekistan,2020-12-02
+56,Chen Tanaka,Corporate,France,2022-09-18
+57,Dilnoza Nazarova,Consumer,USA,2021-05-15
+58,Peter Brown,Consumer,Uzbekistan,2022-02-22
+59,Bob Lee,Corporate,Uzbekistan,2021-04-28
+60,Erik Garcia,Consumer,Germany,2020-10-27

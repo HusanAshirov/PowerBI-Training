@@ -1,0 +1,13 @@
+ProductID,ProductName,Category|SubCategory,Tags,Price,StockStatus
+1,Wireless Mouse,Furniture|Office,"eco-friendly, sale, home",$209.27,LOW STOCK
+2,Standing Desk,Furniture|Storage,"limited, electronics, sale",$434.59,LOW STOCK
+3,LED Lamp,Electronics|Audio,"home, refurbished, bestseller, limited",31.42 USD,In Stock 
+4,Office Chair,Furniture|Storage,sale,300.74,In Stock 
+5,USB Hub,Furniture|Office,"electronics, limited",171.49,In Stock
+6,Mechanical Keyboard,Furniture|Storage,"home, bestseller",269.94,In Stock
+7,Monitor Stand,Electronics|Audio,home,258.21 USD,In Stock 
+8,Webcam HD,Furniture|Storage,"refurbished, new",265.08 USD,In Stock
+9,Noise Cancelling Headset,Electronics|Audio,limited,65.9 USD,In Stock 
+10,Laptop Sleeve,Electronics|Audio,"eco-friendly, premium, new, refurbished",215.41,In Stock
+11,Desk Organizer,Furniture|Office,"home, bestseller, refurbished, new",115.02 USD,In Stock
+12,Ergonomic Footrest,Furniture|Storage,"new, bestseller, home",$308.06,LOW STOCK

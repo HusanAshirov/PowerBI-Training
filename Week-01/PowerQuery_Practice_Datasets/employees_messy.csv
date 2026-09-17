@@ -1,0 +1,134 @@
+EmployeeID,First Name,Last Name,Department,Country,HireDate,Salary,Email
+1000,  Dilnoza  ,Smith,finance,U.S.A.,03/07/2017,,dilnoza.smith@company.com
+1000,  Dilnoza  ,Smith,finance,U.S.A.,03/07/2017,,dilnoza.smith@company.com
+1001,Grace,Nazarova,it ,U.S.A.,01-14-2020,"9924,00",grace.nazarova@company.com
+1002,Liam,Rashidov,HR,Germany,2024-01-19,N/A,
+1003,Grace,Karimov,Sales,U.S.A.,09-02-2023,N/A,grace.karimov@company.com
+1004,Ivy,Karimov,HR,USA,27/12/2020,"9216,00",ivy.karimov@company.com
+1005,Bob,Yusupova,Sales,GERMANY,07-02-2019,$6456,bob.yusupova@company.com
+1006,  Hasan  ,NAZAROVA,MARKETING,Germany,18.05.2023,$8930,hasan.nazarova@company.com
+1007,Nodir,Johnson, sales ,France,13.04.2019,n/a,nodir.johnson@company.com
+1008,Dilnoza,Brown,it ,USA,2020-02-02,,dilnoza.brown@company.com
+1009,Erik,Rashidov,,Uzbekistan,09-19-2021,"4832,00",erik.rashidov@company.com
+1010,Chen,Karimov,Marketing,uzbekistan,13/07/2023,"5705,00",chen.karimov@company.com
+1011,Grace,Brown,it ,GERMANY,30.11.2019,4982,grace.brown@company.com
+1011,Grace,Brown,it ,GERMANY,30.11.2019,4982,grace.brown@company.com
+1012,Bob,YUSUPOVA, sales ,Uzbekistan,08-22-2024,"6899,00",bob.yusupova@company.com
+1013,Peter,YUSUPOVA,Marketing,France,2017-02-18,N/A,peter.yusupova@company.com
+1014,Bob,Garcia,IT,uzbekistan,15/10/2017,$11786,bob.garcia@company.com
+1015,Dilnoza,SMITH,MARKETING,Uzbekistan,18/01/2016,N/A,dilnoza.smith@company.com
+1016,Ivy,Tanaka,finance,France,24.10.2022,$6111,ivy.tanaka@company.com
+1016,Ivy,Tanaka,finance,France,24.10.2022,$6111,ivy.tanaka@company.com
+1017,Peter,Nazarova,MARKETING,USA,2015-08-21,n/a,peter.nazarova@company.com
+1018,  Bob  ,Johnson, sales ,France,05-16-2022,$6346,bob.johnson@company.com
+1019,Chen,Smith,Marketing,uzbekistan,28/10/2015,"5170,00",chen.smith@company.com
+1020,Jack,Johnson,MARKETING,Uzbekistan,06-28-2022,4697,jack.johnson@company.com
+1021,Kamola,Yusupova,finance,france,2017-10-25,4512,
+1022,Nodir,NAZAROVA,Sales,uzbekistan,05/11/2015,,nodir.nazarova@company.com
+1023,Bob,Rashidov,Finance,U.S.A.,2022-06-24,$9658,bob.rashidov@company.com
+1023,Bob,Rashidov,Finance,U.S.A.,2022-06-24,$9658,bob.rashidov@company.com
+1024,Kamola,Garcia,Finance,Germany,2016-10-14,$3634,kamola.garcia@company.com
+1025,Hasan,Smith,Finance,France,09-06-2018,n/a,hasan.smith@company.com
+1025,Hasan,Smith,Finance,France,09-06-2018,n/a,hasan.smith@company.com
+1026,Ivy,Lee,HR,Germany,2015-06-06,N/A,ivy.lee@company.com
+1027,Nodir,Smith,MARKETING,U.S.A.,31.01.2019,n/a,nodir.smith@company.com
+1028,  Mira  ,Brown,MARKETING,USA,24.02.2017,N/A,mira.brown@company.com
+1029,Kamola,Tanaka,Marketing,france,30/07/2022,n/a,
+1030,  Hasan  ,Brown,Finance,U.S.A.,2016-08-26,,hasan.brown@company.com
+1031,Mira,Tanaka,it ,U.S.A.,2016-08-27,$9965,mira.tanaka@company.com
+1032,  Dilnoza  ,Tanaka,SALES,france,06-27-2022,,dilnoza.tanaka@company.com
+1033,Ivy,NAZAROVA,Marketing,U.S.A.,29.01.2018,"6841,00",ivy.nazarova@company.com
+1034,Erik,Yusupova, sales ,France,07-28-2019,11890,erik.yusupova@company.com
+1035,Mira,Tanaka,Sales,GERMANY,08.05.2018,,mira.tanaka@company.com
+1036,Mira,Lee,Marketing,USA,2021-12-23,n/a,mira.lee@company.com
+1037,  Olga  ,Rashidov,IT,France,13.02.2018,7133,olga.rashidov@company.com
+1037,  Olga  ,Rashidov,IT,France,13.02.2018,7133,olga.rashidov@company.com
+1038,Bob,Smith,Finance,U.S.A.,2024-05-30,N/A,bob.smith@company.com
+1039,Farrukh,Johnson,HR,uzbekistan,21/09/2023,"3420,00",farrukh.johnson@company.com
+1040,Hasan,Karimov,finance,uzbekistan,2023-12-06,n/a,hasan.karimov@company.com
+1041,Dilnoza,Garcia,IT,france,07/12/2022,n/a,dilnoza.garcia@company.com
+1042,Ivy,Rashidov,Finance,uzbekistan,16.02.2018,"9209,00",
+1043,Kamola,Brown,HR,Germany,2021-03-26,$6130,kamola.brown@company.com
+1044,Peter,Tanaka,Sales,uzbekistan,20/04/2018,n/a,peter.tanaka@company.com
+1045,Kamola,Rashidov,Marketing,Germany,06-09-2018,"6155,00",kamola.rashidov@company.com
+1046,Peter,BROWN,,Germany,16/02/2016,$6727,peter.brown@company.com
+1046,Peter,BROWN,,Germany,16/02/2016,$6727,peter.brown@company.com
+1047,Jack,Lee,Marketing,uzbekistan,2024-10-14,N/A,jack.lee@company.com
+1048,  Chen  ,Garcia,Marketing,uzbekistan,2021-06-21,5485,chen.garcia@company.com
+1049,Hasan,Nazarova,it ,france,10.03.2025,,hasan.nazarova@company.com
+1050,Grace,Brown, sales ,USA,09/09/2017,N/A,grace.brown@company.com
+1051,Olga,Karimov,,Germany,01/11/2023,$4880,olga.karimov@company.com
+1052,Jack,JOHNSON,,Germany,2019-12-04,"9594,00",jack.johnson@company.com
+1053,Kamola,Johnson,finance,Uzbekistan,10/01/2016,$7415,kamola.johnson@company.com
+1054,Peter,Karimov,Marketing,GERMANY,07-31-2019,"5634,00",peter.karimov@company.com
+1055,Bob,Tanaka, sales ,GERMANY,10-30-2017,4899,bob.tanaka@company.com
+1056,Peter,Tanaka,Sales,U.S.A.,29/12/2017,7719,
+1057,Anna,Nazarova,it ,uzbekistan,2017-07-09,N/A,anna.nazarova@company.com
+1058,Peter,Yusupova,Marketing,USA,21/04/2019,"4143,00",peter.yusupova@company.com
+1059,Anna,Brown,finance,france,14/09/2024,"10935,00",anna.brown@company.com
+1060,Hasan,Johnson,it ,U.S.A.,07.08.2024,n/a,hasan.johnson@company.com
+1061,  Erik  ,TANAKA,Sales,USA,08-19-2020,,erik.tanaka@company.com
+1062,Chen,Tanaka,finance,GERMANY,27.12.2021,N/A,chen.tanaka@company.com
+1063,Chen,YUSUPOVA,finance,U.S.A.,2023-05-17,N/A,chen.yusupova@company.com
+1063,Chen,YUSUPOVA,finance,U.S.A.,2023-05-17,N/A,chen.yusupova@company.com
+1064,Liam,Rashidov,it ,USA,27.09.2017,5950,liam.rashidov@company.com
+1065,Hasan,Tanaka,finance,france,2017-11-11,$7712,
+1066,Ivy,Tanaka,,U.S.A.,25.04.2019,,ivy.tanaka@company.com
+1067,Mira,Brown,Sales,Uzbekistan,18.03.2025,$6770,mira.brown@company.com
+1068,Erik,Karimov,Sales,Germany,05.11.2023,3546,erik.karimov@company.com
+1069,Liam,Nazarova,,Germany,24/04/2024,n/a,liam.nazarova@company.com
+1070,Hasan,Garcia,MARKETING,GERMANY,05.01.2016,3228,hasan.garcia@company.com
+1071,Liam,KARIMOV,Finance,france,04-13-2015,n/a,liam.karimov@company.com
+1072,Peter,Karimov, sales ,U.S.A.,13/12/2024,n/a,peter.karimov@company.com
+1073,Nodir,KARIMOV,Marketing,France,2018-02-19,N/A,nodir.karimov@company.com
+1074,Liam,SMITH,it ,Germany,2017-02-16,n/a,liam.smith@company.com
+1075,Grace,KARIMOV,MARKETING,U.S.A.,29/07/2021,,
+1076,  Farrukh  ,Karimov,Sales,USA,03-02-2015,$8304,farrukh.karimov@company.com
+1076,  Farrukh  ,Karimov,Sales,USA,03-02-2015,$8304,farrukh.karimov@company.com
+1077,  Olga  ,Rashidov,MARKETING,uzbekistan,26/01/2020,N/A,olga.rashidov@company.com
+1078,Dilnoza,Tanaka,Marketing,uzbekistan,2025-01-31,$5430,dilnoza.tanaka@company.com
+1079,Jack,Tanaka,MARKETING,France,2016-02-11,$10046,jack.tanaka@company.com
+1080,Kamola,Brown,IT,USA,14.09.2022,4099,kamola.brown@company.com
+1080,Kamola,Brown,IT,USA,14.09.2022,4099,kamola.brown@company.com
+1081,Kamola,Karimov,it ,GERMANY,18.10.2024,"8119,00",kamola.karimov@company.com
+1082,Liam,Nazarova,IT,uzbekistan,07-21-2023,,liam.nazarova@company.com
+1083,  Jack  ,Rashidov,IT,Uzbekistan,13/01/2017,n/a,jack.rashidov@company.com
+1084,  Kamola  ,LEE,IT,Germany,02-03-2023,$3861,kamola.lee@company.com
+1085,Olga,Garcia,finance,U.S.A.,2023-06-20,"4816,00",olga.garcia@company.com
+1086,Bob,Smith,Finance,Germany,15/05/2017,7186,
+1087,Liam,Karimov,it ,Uzbekistan,2019-11-22,,liam.karimov@company.com
+1088,Kamola,LEE,HR,france,04-30-2024,$10155,kamola.lee@company.com
+1089,Hasan,Rashidov,SALES,uzbekistan,2020-09-21,"6176,00",hasan.rashidov@company.com
+1090,Ivy,Yusupova,SALES,USA,2023-07-11,,ivy.yusupova@company.com
+1091,Kamola,Rashidov,SALES,france,07.10.2015,,
+1091,Kamola,Rashidov,SALES,france,07.10.2015,,
+1092,  Jack  ,KARIMOV, sales ,France,2020-03-10,,jack.karimov@company.com
+1093,Kamola,Karimov,MARKETING,USA,10/06/2015,,kamola.karimov@company.com
+1094,Bob,Rashidov, sales ,GERMANY,23.01.2016,"5463,00",
+1095,Mira,Lee,HR,uzbekistan,22.06.2018,8381,mira.lee@company.com
+1096,Grace,Rashidov,Marketing,U.S.A.,16/07/2017,5538,grace.rashidov@company.com
+1097,Erik,Johnson,it ,USA,26/10/2016,N/A,erik.johnson@company.com
+1098,Olga,Yusupova,MARKETING,U.S.A.,21.06.2018,N/A,olga.yusupova@company.com
+1099,Grace,Johnson,SALES,Germany,02.08.2015,9081,grace.johnson@company.com
+1100,Nodir,Karimov,Finance,france,12-02-2024,N/A,nodir.karimov@company.com
+1100,Nodir,Karimov,Finance,france,12-02-2024,N/A,nodir.karimov@company.com
+1101,Dilnoza,RASHIDOV,SALES,USA,06-06-2015,N/A,dilnoza.rashidov@company.com
+1102,Nodir,KARIMOV,finance,U.S.A.,2018-05-18,n/a,nodir.karimov@company.com
+1103,Anna,Nazarova,HR,U.S.A.,22/01/2023,,anna.nazarova@company.com
+1104,Liam,KARIMOV,MARKETING,Uzbekistan,19.05.2019,"9116,00",liam.karimov@company.com
+1105,Dilnoza,Johnson,IT,USA,07-01-2015,n/a,dilnoza.johnson@company.com
+1105,Dilnoza,Johnson,IT,USA,07-01-2015,n/a,dilnoza.johnson@company.com
+1106,Olga,Smith,,U.S.A.,29/06/2015,,olga.smith@company.com
+1107,Jack,Rashidov,Sales,GERMANY,2018-01-24,n/a,jack.rashidov@company.com
+1108,  Liam  ,Nazarova,finance,uzbekistan,26.02.2023,,liam.nazarova@company.com
+1109,Nodir,LEE,Marketing,GERMANY,2020-01-06,n/a,nodir.lee@company.com
+1110,Farrukh,Smith,SALES,france,23/05/2015,"9001,00",farrukh.smith@company.com
+1111,  Liam  ,Tanaka, sales ,USA,12-08-2020,$8150,liam.tanaka@company.com
+1112,Dilnoza,Brown,finance,france,05-28-2017,$6279,dilnoza.brown@company.com
+1113,Kamola,Rashidov, sales ,Germany,12-29-2024,,kamola.rashidov@company.com
+1114,Liam,Nazarova,HR,GERMANY,29/03/2020,N/A,liam.nazarova@company.com
+1115,  Chen  ,Lee,IT,uzbekistan,18.01.2020,,chen.lee@company.com
+1116,Bob,Karimov,,USA,30/05/2018,"6694,00",bob.karimov@company.com
+1117,Ivy,LEE,finance,uzbekistan,20/08/2020,,
+1118,Ivy,Yusupova,HR,France,2021-12-06,n/a,ivy.yusupova@company.com
+1119,Chen,Smith,SALES,france,30.08.2019,,chen.smith@company.com
