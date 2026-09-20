@@ -1,0 +1,7 @@
+ReturnID,OrderID,ReturnReason,ReturnDate
+R-01,5023,Defective item,03/10/2024
+R-02,5029,Wrong size,03/25/2024
+R-03,5008,Changed mind,01/25/2024
+R-04,5099,Item damaged in transit,03/28/2024
+R-05,5012,Late delivery,02/10/2024
+R-06,5150,Duplicate order,03/30/2024
