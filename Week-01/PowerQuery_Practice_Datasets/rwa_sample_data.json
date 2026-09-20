@@ -1,0 +1,238 @@
+{
+  "reportMetadata": {
+    "reportName": "Quarterly RWA Disclosure",
+    "framework": "Basel III - Standardised Approach",
+    "currency": "USD",
+    "generatedOn": "2026-09-19"
+  },
+  "institutions": [
+    {
+      "bankId": "BNK-001",
+      "bankName": "Meridian Capital Bank",
+      "country": "United States",
+      "reportingPeriod": "2026-Q2",
+      "asOfDate": "06/30/2026",
+      "exposures": [
+        {
+          "exposureClass": "Corporate",
+          "exposureAmount": 4250000000,
+          "riskWeight": 1.00,
+          "rwa": 4250000000,
+          "capitalRequirement": {
+            "cet1": 191250000,
+            "tier1": 255000000,
+            "totalCapital": 340000000
+          },
+          "subExposures": [
+            {"rating": "AAA to AA-", "amount": 850000000, "riskWeight": 0.20},
+            {"rating": "A+ to A-", "amount": 1200000000, "riskWeight": 0.50},
+            {"rating": "BBB+ to BB-", "amount": 1600000000, "riskWeight": 1.00},
+            {"rating": "Below BB-", "amount": 600000000, "riskWeight": 1.50}
+          ]
+        },
+        {
+          "exposureClass": "Retail",
+          "exposureAmount": 2100000000,
+          "riskWeight": 0.75,
+          "rwa": 1575000000,
+          "capitalRequirement": {
+            "cet1": 70875000,
+            "tier1": 94500000,
+            "totalCapital": 126000000
+          },
+          "subExposures": [
+            {"rating": "Qualifying revolving", "amount": 900000000, "riskWeight": 0.75},
+            {"rating": "Residential mortgage", "amount": 1200000000, "riskWeight": 0.35}
+          ]
+        },
+        {
+          "exposureClass": "Sovereign",
+          "exposureAmount": 3000000000,
+          "riskWeight": 0.00,
+          "rwa": 0,
+          "capitalRequirement": {
+            "cet1": 0,
+            "tier1": 0,
+            "totalCapital": 0
+          },
+          "subExposures": [
+            {"rating": "AAA to AA-", "amount": 3000000000, "riskWeight": 0.00}
+          ]
+        },
+        {
+          "exposureClass": "Equity",
+          "exposureAmount": 560000000,
+          "riskWeight": 2.50,
+          "rwa": 1400000000,
+          "capitalRequirement": {
+            "cet1": 63000000,
+            "tier1": 84000000,
+            "totalCapital": 112000000
+          },
+          "subExposures": null
+        }
+      ],
+      "operationalRiskRWA": 890000000,
+      "marketRiskRWA": 410000000,
+      "notes": "Includes subsidiary consolidation as of Q2."
+    },
+    {
+      "bankId": "BNK-002",
+      "bankName": "Harborline Financial Group",
+      "country": "United Kingdom",
+      "reportingPeriod": "2026-Q2",
+      "asOfDate": "2026-06-30",
+      "exposures": [
+        {
+          "exposureClass": "Corporate",
+          "exposureAmount": 5100000000,
+          "riskWeight": 1.00,
+          "rwa": 5100000000,
+          "capitalRequirement": {
+            "cet1": 229500000,
+            "tier1": 306000000,
+            "totalCapital": 408000000
+          },
+          "subExposures": [
+            {"rating": "AAA to AA-", "amount": 700000000, "riskWeight": 0.20},
+            {"rating": "A+ to A-", "amount": 1800000000, "riskWeight": 0.50},
+            {"rating": "BBB+ to BB-", "amount": 2100000000, "riskWeight": 1.00},
+            {"rating": "Below BB-", "amount": 500000000, "riskWeight": 1.50}
+          ]
+        },
+        {
+          "exposureClass": "Bank",
+          "exposureAmount": 1750000000,
+          "riskWeight": 0.30,
+          "rwa": 525000000,
+          "capitalRequirement": {
+            "cet1": 23625000,
+            "tier1": 31500000,
+            "totalCapital": 42000000
+          },
+          "subExposures": [
+            {"rating": "AAA to AA-", "amount": 900000000, "riskWeight": 0.20},
+            {"rating": "A+ to A-", "amount": 850000000, "riskWeight": 0.40}
+          ]
+        },
+        {
+          "exposureClass": "Retail",
+          "exposureAmount": 1980000000,
+          "riskWeight": 0.75,
+          "rwa": 1485000000,
+          "capitalRequirement": {
+            "cet1": 66825000,
+            "tier1": 89100000,
+            "totalCapital": 118800000
+          },
+          "subExposures": [
+            {"rating": "Qualifying revolving", "amount": 780000000, "riskWeight": 0.75},
+            {"rating": "Residential mortgage", "amount": 1200000000, "riskWeight": 0.35}
+          ]
+        }
+      ],
+      "operationalRiskRWA": 675000000,
+      "marketRiskRWA": 520000000,
+      "notes": null
+    },
+    {
+      "bankId": "BNK-003",
+      "bankName": "Steppewood National Bank",
+      "country": "Uzbekistan",
+      "reportingPeriod": "2026-Q2",
+      "asOfDate": "30-06-2026",
+      "exposures": [
+        {
+          "exposureClass": "Corporate",
+          "exposureAmount": 890000000,
+          "riskWeight": 1.00,
+          "rwa": 890000000,
+          "capitalRequirement": {
+            "cet1": 40050000,
+            "tier1": 53400000,
+            "totalCapital": 71200000
+          },
+          "subExposures": [
+            {"rating": "A+ to A-", "amount": 300000000, "riskWeight": 0.50},
+            {"rating": "BBB+ to BB-", "amount": 590000000, "riskWeight": 1.00}
+          ]
+        },
+        {
+          "exposureClass": "Sovereign",
+          "exposureAmount": 1250000000,
+          "riskWeight": 0.00,
+          "rwa": 0,
+          "capitalRequirement": {
+            "cet1": 0,
+            "tier1": 0,
+            "totalCapital": 0
+          },
+          "subExposures": [
+            {"rating": "AAA to AA-", "amount": 1250000000, "riskWeight": 0.00}
+          ]
+        },
+        {
+          "exposureClass": "Retail",
+          "exposureAmount": 430000000,
+          "riskWeight": 0.75,
+          "rwa": 322500000,
+          "capitalRequirement": {
+            "cet1": 14512500,
+            "tier1": 19350000,
+            "totalCapital": 25800000
+          },
+          "subExposures": [
+            {"rating": "Qualifying revolving", "amount": 430000000, "riskWeight": 0.75}
+          ]
+        }
+      ],
+      "operationalRiskRWA": 165000000,
+      "marketRiskRWA": 58000000,
+      "notes": "New reporting entity, first submission."
+    },
+    {
+      "bankId": "BNK-004",
+      "bankName": "Meridian Capital Bank",
+      "country": "United States",
+      "reportingPeriod": "2026-Q1",
+      "asOfDate": "03/31/2026",
+      "exposures": [
+        {
+          "exposureClass": "Corporate",
+          "exposureAmount": 4050000000,
+          "riskWeight": 1.00,
+          "rwa": 4050000000,
+          "capitalRequirement": {
+            "cet1": 182250000,
+            "tier1": 243000000,
+            "totalCapital": 324000000
+          },
+          "subExposures": [
+            {"rating": "AAA to AA-", "amount": 800000000, "riskWeight": 0.20},
+            {"rating": "A+ to A-", "amount": 1150000000, "riskWeight": 0.50},
+            {"rating": "BBB+ to BB-", "amount": 1550000000, "riskWeight": 1.00},
+            {"rating": "Below BB-", "amount": 550000000, "riskWeight": 1.50}
+          ]
+        },
+        {
+          "exposureClass": "Retail",
+          "exposureAmount": 2020000000,
+          "riskWeight": 0.75,
+          "rwa": 1515000000,
+          "capitalRequirement": {
+            "cet1": 68175000,
+            "tier1": 90900000,
+            "totalCapital": 121200000
+          },
+          "subExposures": [
+            {"rating": "Qualifying revolving", "amount": 870000000, "riskWeight": 0.75},
+            {"rating": "Residential mortgage", "amount": 1150000000, "riskWeight": 0.35}
+          ]
+        }
+      ],
+      "operationalRiskRWA": 860000000,
+      "marketRiskRWA": 395000000,
+      "notes": "Prior quarter comparative figures."
+    }
+  ]
+}

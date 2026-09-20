@@ -1,0 +1,23 @@
+RWA QUARTERLY EXTRACT - INTERNAL RISK SYSTEM DUMP
+GENERATED: 2026-09-19 | CURRENCY: USD | FRAMEWORK: Basel III Standardised
+=========================================================================
+BankID|BankName|Country|Period|AsOfDate|ExposureClass|ExposureAmount|RiskWeight|RWA|CET1|Tier1|TotalCapital
+BNK-001|Meridian Capital Bank|United States|2026-Q2|06/30/2026|Corporate|4250000000|1.00|4250000000|191250000|255000000|340000000
+BNK-001|Meridian Capital Bank|United States|2026-Q2|06/30/2026|Retail|2100000000|0.75|1575000000|70875000|94500000|126000000
+BNK-001|Meridian Capital Bank|United States|2026-Q2|06/30/2026|Sovereign|3000000000|0.00|0|0|0|0
+BNK-001|Meridian Capital Bank|United States|2026-Q2|06/30/2026|Equity|560000000|2.50|1400000000|63000000|84000000|112000000
+BNK-002|Harborline Financial Group|United Kingdom|2026-Q2|2026-06-30|Corporate|5100000000|1.00|5100000000|229500000|306000000|408000000
+BNK-002|Harborline Financial Group|United Kingdom|2026-Q2|2026-06-30|Bank|1750000000|0.30|525000000|23625000|31500000|42000000
+BNK-002|Harborline Financial Group|United Kingdom|2026-Q2|2026-06-30|Retail|1980000000||1485000000|66825000|89100000|118800000
+BNK-003|Steppewood National Bank|Uzbekistan|2026-Q2|30-06-2026|Corporate|890000000|1.00|890000000|40050000|53400000|71200000
+BNK-003|Steppewood National Bank|Uzbekistan|2026-Q2|30-06-2026|Sovereign|1250000000|0.00|0|0|0|0
+BNK-003|Steppewood National Bank|Uzbekistan|2026-Q2|30-06-2026|Retail|430000000|0.75|322500000|14512500|19350000|25800000
+BNK-004|Meridian Capital Bank|United States|2026-Q1|03/31/2026|Corporate|4050000000|1.00|4050000000|182250000|243000000|324000000
+BNK-004|Meridian Capital Bank|United States|2026-Q1|03/31/2026|Retail|2020000000|0.75|1515000000|68175000|90900000|  N/A
+BNK-005|Fennsbury Trust & Savings|Canada|2026-Q2|2026/06/30|Corporate|610000000|1.00|610000000|27450000|36600000|48800000
+BNK-005|Fennsbury Trust & Savings|Canada|2026-Q2|2026/06/30|Retail|275000000|0.75|206250000|9281250|12375000|16500000
+BNK-005|Fennsbury Trust & Savings|Canada|2026-Q2|2026/06/30|Bank|140000000|0.30|42000000|1890000|2520000|3360000
+=========================================================================
+END OF EXTRACT - 14 EXPOSURE RECORDS ACROSS 5 INSTITUTIONS
+NOTE: Blank RiskWeight for BNK-002 Retail row is a known source-system gap.
+NOTE: "N/A" in TotalCapital column (BNK-004 Retail) needs cleansing before aggregation.
